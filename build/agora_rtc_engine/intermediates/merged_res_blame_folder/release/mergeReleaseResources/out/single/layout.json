@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/layout/ime_base_split_test_activity.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/layout/notification_template_part_chronometer.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/layout/ime_secondary_split_test_activity.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/layout/notification_template_part_time.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/layout/custom_dialog.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/layout/custom_dialog.xml"
+    }
+]

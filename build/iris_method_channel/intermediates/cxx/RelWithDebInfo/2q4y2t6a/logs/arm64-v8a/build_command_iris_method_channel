@@ -1,0 +1,4 @@
+/Users/gtr/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/gtr/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2/android/.cxx/RelWithDebInfo/2q4y2t6a/arm64-v8a \
+  iris_method_channel

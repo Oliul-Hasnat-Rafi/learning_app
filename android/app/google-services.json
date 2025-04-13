@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373594840439",
+    "project_id": "learning-app-rafi",
+    "storage_bucket": "learning-app-rafi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373594840439:android:71b9312230ec89a60b5572",
+        "android_client_info": {
+          "package_name": "com.example.language_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDFFNZnuUxH2FCyo-JU6WIiC2F0LqyBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

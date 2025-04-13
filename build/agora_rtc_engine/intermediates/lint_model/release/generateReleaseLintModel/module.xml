@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/gtr/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.1/android"
+    name=":agora_rtc_engine"
+    type="LIBRARY"
+    maven="io.agora.agora_rtc_ng:agora_rtc_engine:1.0-SNAPSHOT"
+    agpVersion="8.7.0"
+    buildFolder="/Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine"
+    bootClassPath="/Users/gtr/Library/Android/sdk/platforms/android-31/android.jar:/Users/gtr/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

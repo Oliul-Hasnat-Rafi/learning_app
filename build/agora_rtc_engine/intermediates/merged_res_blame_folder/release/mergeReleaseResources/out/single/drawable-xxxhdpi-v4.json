@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    }
+]

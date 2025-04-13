@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable/notification_bg.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable/notification_icon_background.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable/notification_bg_low.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "io.agora.agora_rtc_ng.agora_rtc_engine-release-47:/drawable/notification_tile_bg.xml",
+        "source": "io.agora.agora_rtc_ng.agora_rtc_engine-core-1.13.1-10:/drawable/notification_tile_bg.xml"
+    }
+]
