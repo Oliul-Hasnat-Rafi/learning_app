@@ -14,7 +14,7 @@ jobs:
     name: Build & Release
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Updated to v4 for latest version
       - uses: actions/setup-java@v3
         with:
           distribution: 'zulu'
@@ -23,8 +23,12 @@ jobs:
         with:
           channel: 'stable'
           architecture: x64
-      - run: flutter build apk --release --split-per-abi
-      - run: |
+      - name: Clean Flutter build
+        run: flutter clean && flutter pub get
+      - name: Build APK
+        run: flutter build apk --release --split-per-abi
+      - name: Build iOS
+        run: |
           flutter build ios --no-codesign
           cd build/ios/iphoneos
           mkdir Payload
