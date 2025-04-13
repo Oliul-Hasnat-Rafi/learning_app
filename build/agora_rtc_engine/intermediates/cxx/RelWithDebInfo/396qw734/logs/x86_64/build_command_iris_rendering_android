@@ -1,0 +1,4 @@
+/Users/gtr/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/gtr/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.1/android/.cxx/RelWithDebInfo/396qw734/x86_64 \
+  iris_rendering_android

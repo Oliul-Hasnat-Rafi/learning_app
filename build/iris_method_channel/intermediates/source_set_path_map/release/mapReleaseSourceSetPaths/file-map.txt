@@ -20,8 +20,8 @@ com.agora.iris_method_channel-jetified-window-1.2.0-18 /Users/gtr/.gradle/caches
 com.agora.iris_method_channel-jetified-annotation-experimental-1.4.0-19 /Users/gtr/.gradle/caches/8.10.2/transforms/b204dbe68736c2b5f075d04ddf3d98ba/transformed/jetified-annotation-experimental-1.4.0/res
 com.agora.iris_method_channel-main-20 /Users/gtr/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2/android/src/main/res
 com.agora.iris_method_channel-release-21 /Users/gtr/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2/android/src/release/res
-com.agora.iris_method_channel-pngs-22 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/generated/res/pngs/release
-com.agora.iris_method_channel-resValues-23 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/generated/res/resValues/release
-com.agora.iris_method_channel-mergeReleaseResources-24 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.agora.iris_method_channel-mergeReleaseResources-25 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.agora.iris_method_channel-release-26 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/merged_res/release/mergeReleaseResources
+com.agora.iris_method_channel-pngs-22 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/generated/res/pngs/release
+com.agora.iris_method_channel-resValues-23 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/generated/res/resValues/release
+com.agora.iris_method_channel-mergeReleaseResources-24 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.agora.iris_method_channel-mergeReleaseResources-25 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.agora.iris_method_channel-release-26 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/merged_res/release/mergeReleaseResources

@@ -1,0 +1,10 @@
+#Sun Apr 13 21:54:11 BDT 2025
+base.2=/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
+path.2=classes2.dex
+base.1=/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/desugar_lib_dex/release/l8DexDesugarLibRelease/classes1000.dex
+path.1=classes1000.dex
+base.0=/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

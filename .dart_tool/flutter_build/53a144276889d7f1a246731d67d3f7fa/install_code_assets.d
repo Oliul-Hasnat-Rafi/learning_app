@@ -1,0 +1,1 @@
+ /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/.dart_tool/flutter_build/53a144276889d7f1a246731d67d3f7fa/native_assets.json: 

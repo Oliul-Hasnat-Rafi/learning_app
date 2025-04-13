@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/gtr/Rafi/personal_project/language_learning_app/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/gtr/Rafi/personal_project/language_learning_app/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/gtr/Rafi/personal_project/language_learning_app/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name=":@@:shared_preferences_android::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/8af037ceecbdae0558f722385d101e32/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/8af037ceecbdae0558f722385d101e32/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/shared_preferences_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/shared_preferences_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/8af037ceecbdae0558f722385d101e32/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -21,7 +21,7 @@
       name=":@@:stripe_android::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/deaf3cbde68390381a168c155dd88495/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/deaf3cbde68390381a168c155dd88495/transformed/out/jars/libs/R.jar"
       resolved="com.flutter.stripe:stripe_android:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/deaf3cbde68390381a168c155dd88495/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -37,10 +37,10 @@
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0"/>
   <library
       name=":@@:agora_rtc_engine::release"
-      jars="/Users/gtr/.gradle/caches/8.10.2/transforms/964f3332e2987d41b744ec90cf494b9a/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/964f3332e2987d41b744ec90cf494b9a/transformed/out/jars/libs/R.jar"
+      jars="/Users/gtr/.gradle/caches/8.10.2/transforms/70e196dd722778459313ff6a534422a9/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/70e196dd722778459313ff6a534422a9/transformed/out/jars/libs/R.jar"
       resolved="io.agora.agora_rtc_ng:agora_rtc_engine:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
-      folder="/Users/gtr/.gradle/caches/8.10.2/transforms/964f3332e2987d41b744ec90cf494b9a/transformed/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      folder="/Users/gtr/.gradle/caches/8.10.2/transforms/70e196dd722778459313ff6a534422a9/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -53,7 +53,7 @@
       name=":@@:cloud_firestore::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/a8b855040a8812aa2f2b27be19899e29/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/a8b855040a8812aa2f2b27be19899e29/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.cloudfirestore:cloud_firestore:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/a8b855040a8812aa2f2b27be19899e29/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -67,7 +67,7 @@
       name=":@@:firebase_auth::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/994c6dba0034f6ed08f1f7ef19c0910b/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/994c6dba0034f6ed08f1f7ef19c0910b/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.auth:firebase_auth:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/994c6dba0034f6ed08f1f7ef19c0910b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -81,7 +81,7 @@
       name=":@@:firebase_messaging::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/72a6d318a52b002138d05a25982653cd/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/72a6d318a52b002138d05a25982653cd/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebasemessaging:firebase_messaging:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/72a6d318a52b002138d05a25982653cd/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -95,7 +95,7 @@
       name=":@@:firebase_core::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/7aa3776f4234c39ff3d5ef69eba577f6/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/7aa3776f4234c39ff3d5ef69eba577f6/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.firebase.core:firebase_core:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/7aa3776f4234c39ff3d5ef69eba577f6/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -109,7 +109,7 @@
       name=":@@:flutter_local_notifications::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/4e7c5c077a5726adb06eacc4650b1f46/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/4e7c5c077a5726adb06eacc4650b1f46/transformed/out/jars/libs/R.jar"
       resolved="com.dexterous.flutterlocalnotifications:flutter_local_notifications:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/4e7c5c077a5726adb06eacc4650b1f46/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -121,10 +121,10 @@
       proguardRules="proguard.txt"/>
   <library
       name=":@@:iris_method_channel::release"
-      jars="/Users/gtr/.gradle/caches/8.10.2/transforms/a894d5453cc27d50c1bb3ec92c34409f/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/a894d5453cc27d50c1bb3ec92c34409f/transformed/out/jars/libs/R.jar"
+      jars="/Users/gtr/.gradle/caches/8.10.2/transforms/0c658771b08ec3978685cc7e5b9311fb/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/0c658771b08ec3978685cc7e5b9311fb/transformed/out/jars/libs/R.jar"
       resolved="com.agora.iris_method_channel:iris_method_channel:1.0"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
-      folder="/Users/gtr/.gradle/caches/8.10.2/transforms/a894d5453cc27d50c1bb3ec92c34409f/transformed/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      folder="/Users/gtr/.gradle/caches/8.10.2/transforms/0c658771b08ec3978685cc7e5b9311fb/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -137,7 +137,7 @@
       name=":@@:path_provider_android::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/f70eb56de086d96e4c24ae6ff51b262d/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/f70eb56de086d96e4c24ae6ff51b262d/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/path_provider_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/path_provider_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/f70eb56de086d96e4c24ae6ff51b262d/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -151,7 +151,7 @@
       name=":@@:permission_handler_android::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/04081ced357bc5b32227fde6573db494/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/04081ced357bc5b32227fde6573db494/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.permissionhandler:permission_handler_android:1.0"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/04081ced357bc5b32227fde6573db494/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -165,7 +165,7 @@
       name=":@@:sqflite_android::release"
       jars="/Users/gtr/.gradle/caches/8.10.2/transforms/b1b74bf154b22af9f604bbdc3b5d2225/transformed/out/jars/classes.jar:/Users/gtr/.gradle/caches/8.10.2/transforms/b1b74bf154b22af9f604bbdc3b5d2225/transformed/out/jars/libs/R.jar"
       resolved="com.tekartik.sqflite:sqflite_android:1.0-SNAPSHOT"
-      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/sqflite_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+      partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/sqflite_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
       folder="/Users/gtr/.gradle/caches/8.10.2/transforms/b1b74bf154b22af9f604bbdc3b5d2225/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
@@ -476,17 +476,9 @@
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.0/e000bd084353d84c9e888f6fb341dc1f5b79d948/kotlin-stdlib-jdk8-1.9.0.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
-      jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/e54d80d773cb2c33ee1640ce30582f3559da852b/armeabi_v7a_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
-  <library
       name="io.flutter:arm64_v8a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/4a0daad0345f38961bb03309f3267aaca0bc30ca/arm64_v8a_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
       resolved="io.flutter:arm64_v8a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
-  <library
-      name="io.flutter:x86_64_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
-      jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/6b87548dc9ef14760e15f6c6f3c502de0f46cb85/x86_64_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
   <library
       name="org.jetbrains:annotations:23.0.0@jar"
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar"

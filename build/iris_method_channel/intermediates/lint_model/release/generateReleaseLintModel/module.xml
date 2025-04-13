@@ -5,7 +5,7 @@
     type="LIBRARY"
     maven="com.agora.iris_method_channel:iris_method_channel:1.0"
     agpVersion="8.7.0"
-    buildFolder="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel"
+    buildFolder="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel"
     bootClassPath="/Users/gtr/Library/Android/sdk/platforms/android-31/android.jar:/Users/gtr/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-31"

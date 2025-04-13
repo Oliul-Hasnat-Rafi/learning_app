@@ -42,9 +42,9 @@ io.agora.agora_rtc_ng.agora_rtc_engine-jetified-full-sdk-4.5.1-40 /Users/gtr/.gr
 io.agora.agora_rtc_ng.agora_rtc_engine-jetified-full-rtc-basic-4.5.1-41 /Users/gtr/.gradle/caches/8.10.2/transforms/ff809c8a1586329f27929152e31a5beb/transformed/jetified-full-rtc-basic-4.5.1/res
 io.agora.agora_rtc_ng.agora_rtc_engine-main-42 /Users/gtr/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.1/android/src/main/res
 io.agora.agora_rtc_ng.agora_rtc_engine-release-43 /Users/gtr/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.5.1/android/src/release/res
-io.agora.agora_rtc_ng.agora_rtc_engine-pngs-44 /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/generated/res/pngs/release
-io.agora.agora_rtc_ng.agora_rtc_engine-resValues-45 /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/generated/res/resValues/release
-io.agora.agora_rtc_ng.agora_rtc_engine-mergeReleaseResources-46 /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/incremental/release/mergeReleaseResources/merged.dir
-io.agora.agora_rtc_ng.agora_rtc_engine-mergeReleaseResources-47 /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-io.agora.agora_rtc_ng.agora_rtc_engine-release-48 /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_res/release/mergeReleaseResources
-io.agora.agora_rtc_ng.agora_rtc_engine-release-49 /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/packaged_res/release/packageReleaseResources
+io.agora.agora_rtc_ng.agora_rtc_engine-pngs-44 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/generated/res/pngs/release
+io.agora.agora_rtc_ng.agora_rtc_engine-resValues-45 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/generated/res/resValues/release
+io.agora.agora_rtc_ng.agora_rtc_engine-mergeReleaseResources-46 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.agora.agora_rtc_ng.agora_rtc_engine-mergeReleaseResources-47 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.agora.agora_rtc_ng.agora_rtc_engine-release-48 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_res/release/mergeReleaseResources
+io.agora.agora_rtc_ng.agora_rtc_engine-release-49 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/packaged_res/release/packageReleaseResources

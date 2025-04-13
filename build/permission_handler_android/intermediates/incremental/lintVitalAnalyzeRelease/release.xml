@@ -3,9 +3,9 @@
     package="com.baseflow.permissionhandler"
     minSdkVersion="19"
     targetSdkVersion="19"
-    mergedManifest="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
-    proguardFiles="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
-    partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    mergedManifest="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
+    partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
     desugaredMethodsFiles="/Users/gtr/.gradle/caches/8.10.2/transforms/171937e1994eda896d0b36c87b9b1937/transformed/D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
@@ -21,11 +21,11 @@
   <testFixturesSourceProviders>
   </testFixturesSourceProviders>
   <artifact
-      classOutputs="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      classOutputs="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
       type="MAIN"
       applicationId="com.baseflow.permissionhandler"
-      generatedSourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/generated/res/resValues/release"
+      generatedSourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/generated/res/resValues/release"
       desugaredMethodsFiles="/Users/gtr/.gradle/caches/8.10.2/transforms/171937e1994eda896d0b36c87b9b1937/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

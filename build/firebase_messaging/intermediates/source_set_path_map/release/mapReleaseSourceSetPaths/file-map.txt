@@ -25,9 +25,9 @@ io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-play-services-
 io.flutter.plugins.firebase.messaging.firebase_messaging-localbroadcastmanager-1.1.0-24 /Users/gtr/.gradle/caches/8.10.2/transforms/e6c04d28c91fc7c118b78533e9e4e04e/transformed/localbroadcastmanager-1.1.0/res
 io.flutter.plugins.firebase.messaging.firebase_messaging-main-25 /Users/gtr/.pub-cache/hosted/pub.dev/firebase_messaging-15.2.5/android/src/main/res
 io.flutter.plugins.firebase.messaging.firebase_messaging-release-26 /Users/gtr/.pub-cache/hosted/pub.dev/firebase_messaging-15.2.5/android/src/release/res
-io.flutter.plugins.firebase.messaging.firebase_messaging-release-27 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/packaged_res/release/packageReleaseResources
-io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-28 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/generated/res/pngs/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-29 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/generated/res/resValues/release
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-30 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/merged.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-31 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-io.flutter.plugins.firebase.messaging.firebase_messaging-release-32 /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_res/release/mergeReleaseResources
+io.flutter.plugins.firebase.messaging.firebase_messaging-release-27 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/packaged_res/release/packageReleaseResources
+io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-28 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/generated/res/pngs/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-29 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/generated/res/resValues/release
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-30 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-31 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-release-32 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_res/release/mergeReleaseResources

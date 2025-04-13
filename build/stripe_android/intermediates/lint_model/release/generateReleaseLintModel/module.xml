@@ -5,7 +5,7 @@
     type="LIBRARY"
     maven="com.flutter.stripe:stripe_android:1.0-SNAPSHOT"
     agpVersion="8.7.0"
-    buildFolder="/Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android"
+    buildFolder="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android"
     bootClassPath="/Users/gtr/Library/Android/sdk/platforms/android-34/android.jar:/Users/gtr/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
     javaSourceLevel="17"
     compileTarget="android-34"

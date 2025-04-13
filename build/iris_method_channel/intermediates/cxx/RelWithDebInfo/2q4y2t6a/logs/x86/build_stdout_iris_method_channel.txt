@@ -1,2 +1,0 @@
-ninja: Entering directory `/Users/gtr/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2/android/.cxx/RelWithDebInfo/2q4y2t6a/x86'
-ninja: no work to do.

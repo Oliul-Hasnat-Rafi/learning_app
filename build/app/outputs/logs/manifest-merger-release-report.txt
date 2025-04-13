@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
-MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [com.stripe:stripe-android:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/c4b62229c6722cc2771bbee7f1d77249/transformed/jetified-stripe-android-20.34.4/AndroidManifest.xml:2:1-7:12
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:2:1-83:12
 MERGED from [com.stripe:paymentsheet:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/39abd63caa32c7632fab6cccb522a245/transformed/jetified-paymentsheet-20.34.4/AndroidManifest.xml:2:1-41:12
@@ -17,21 +17,21 @@ MERGED from [com.stripe:payments-model:20.34.4] /Users/gtr/.gradle/caches/8.10.2
 MERGED from [com.stripe:stripe-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/8afa972f3aa5cab66f31a343489c73cb/transformed/jetified-stripe-core-20.34.4/AndroidManifest.xml:2:1-9:12
 MERGED from [com.airbnb.android:mavericks-compose:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/dfd4c8b7aef88675434b4b000790d3e9/transformed/jetified-mavericks-compose-3.0.7/AndroidManifest.xml:2:1-7:12
 MERGED from [com.airbnb.android:mavericks:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/9a9a991715d5c18847b983ae6a7889f9/transformed/jetified-mavericks-3.0.7/AndroidManifest.xml:2:1-9:12
-MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-48:12
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-48:12
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:17:1-66:12
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/805f597cf700b6edc578f20d23953299/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
-MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-10:12
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-21:12
-MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-10:12
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-21:12
+MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/188b0b43bb531f29ab4fb507b621324a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.1.0] /Users/gtr/.gradle/caches/8.10.2/transforms/08538632257a34d5c434be131d4f0e8d/transformed/media-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.preference:preference:1.2.1] /Users/gtr/.gradle/caches/8.10.2/transforms/f3be6a6ce84926dda8b25a9c96ad6da7/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
@@ -193,27 +193,27 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.1] /Users/gtr/.
 MERGED from [com.google.android.instantapps:instantapps:1.1.0] /Users/gtr/.gradle/caches/8.10.2/transforms/eab8cdf83024e9665b8bc515f45f4b07/transformed/jetified-instantapps-1.1.0/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.play:core-common:2.0.3] /Users/gtr/.gradle/caches/8.10.2/transforms/3c0c15bcb71d8177ce417610c9f8aa13/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:2:1-21:12
 	package
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:2:1-62
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:2:1-62
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:7:5-67
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:7:5-67
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-67
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-67
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-67
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/gtr/.gradle/caches/8.10.2/transforms/0da98175bc5d30b62030c442a77265ac/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/gtr/.gradle/caches/8.10.2/transforms/0da98175bc5d30b62030c442a77265ac/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/gtr/.gradle/caches/8.10.2/transforms/41a687c5836cdf83d4fec0401e998b48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
@@ -223,43 +223,43 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/gtr/.gradle/caches/8.10.2/transforms/08eb38f9eec020d4088495207ea5f773/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/gtr/.gradle/caches/8.10.2/transforms/08eb38f9eec020d4088495207ea5f773/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:2:18-60
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:2:18-60
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:3:1-70
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-75
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-75
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:3:1-70
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-75
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:3:18-68
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:3:18-68
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:4:1-67
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:5-71
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:5-71
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:4:1-67
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:5-71
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:5-71
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:4:18-64
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:4:18-64
 uses-permission#android.permission.CAMERA
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:5:1-61
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-65
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-65
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:5:1-61
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-65
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:5:18-58
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:5:18-58
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:6:1-76
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-80
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-80
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:6:1-76
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-80
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:6:18-73
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:6:18-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:7:1-72
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-76
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-76
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:7:1-72
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-76
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-76
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:7:18-69
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:7:18-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:8:1-75
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:8:1-75
 MERGED from [com.stripe:stripe-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/8afa972f3aa5cab66f31a343489c73cb/transformed/jetified-stripe-core-20.34.4/AndroidManifest.xml:7:5-79
 MERGED from [com.stripe:stripe-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/8afa972f3aa5cab66f31a343489c73cb/transformed/jetified-stripe-core-20.34.4/AndroidManifest.xml:7:5-79
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-79
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-79
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:10:5-79
@@ -268,8 +268,8 @@ MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/c
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:5-79
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:5-79
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:5-79
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/gtr/.gradle/caches/8.10.2/transforms/0da98175bc5d30b62030c442a77265ac/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.6.1] /Users/gtr/.gradle/caches/8.10.2/transforms/0da98175bc5d30b62030c442a77265ac/transformed/jetified-recaptcha-18.6.1/AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/gtr/.gradle/caches/8.10.2/transforms/41a687c5836cdf83d4fec0401e998b48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
@@ -283,10 +283,10 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/gt
 MERGED from [io.grpc:grpc-android:1.62.2] /Users/gtr/.gradle/caches/8.10.2/transforms/a987ee3f773982436065ed386f0a2633/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
 MERGED from [io.grpc:grpc-android:1.62.2] /Users/gtr/.gradle/caches/8.10.2/transforms/a987ee3f773982436065ed386f0a2633/transformed/jetified-grpc-android-1.62.2/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:8:18-72
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:8:18-72
 application
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:10:5-35:19
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:10:5-35:19
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:10:5-35:19
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:10:5-35:19
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:20:5-81:19
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:20:5-81:19
 MERGED from [com.stripe:paymentsheet:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/39abd63caa32c7632fab6cccb522a245/transformed/jetified-paymentsheet-20.34.4/AndroidManifest.xml:7:5-39:19
@@ -299,14 +299,14 @@ MERGED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/
 MERGED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/51fc991520ed385a708eef1513a54442/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:14:5-84:19
 MERGED from [com.airbnb.android:mavericks:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/9a9a991715d5c18847b983ae6a7889f9/transformed/jetified-mavericks-3.0.7/AndroidManifest.xml:7:5-20
 MERGED from [com.airbnb.android:mavericks:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/9a9a991715d5c18847b983ae6a7889f9/transformed/jetified-mavericks-3.0.7/AndroidManifest.xml:7:5-20
-MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-46:19
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-46:19
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-46:19
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-46:19
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:13:5-24:19
@@ -384,59 +384,59 @@ MERGED from [com.google.android.instantapps:instantapps:1.1.0] /Users/gtr/.gradl
 MERGED from [com.google.android.play:core-common:2.0.3] /Users/gtr/.gradle/caches/8.10.2/transforms/3c0c15bcb71d8177ce417610c9f8aa13/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.3] /Users/gtr/.gradle/caches/8.10.2/transforms/3c0c15bcb71d8177ce417610c9f8aa13/transformed/jetified-core-common-2.0.3/AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/gtr/.gradle/caches/8.10.2/transforms/417e7c87884e08d4d7995f4b5128db34/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:11:9-46
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:11:9-46
 	android:hardwareAccelerated
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:12:9-43
 	android:icon
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:14:9-45
 	android:theme
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:15:9-40
 	android:enableOnBackInvokedCallback
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:13:9-51
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:13:9-51
 activity#com.example.language_learning_app.MainActivity
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:16:9-31:20
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:16:9-31:20
 	android:launchMode
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:19:13-43
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:19:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:22:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:23:13-55
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:23:13-55
 	android:exported
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:18:13-36
 	android:configChanges
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:21:13-163
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:21:13-163
 	android:theme
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:20:13-44
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:17:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:24:13-26:54
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:24:13-26:54
 	android:resource
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:26:17-51
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:26:17-51
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:25:17-72
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:25:17-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:28:17-68
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:29:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:32:9-34:33
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:32:9-34:33
 	android:value
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:34:13-30
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:34:13-30
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:33:13-44
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:33:13-44
 queries
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:36:5-41:15
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:36:5-41:15
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:10:5-18:15
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:10:5-18:15
 MERGED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/51fc991520ed385a708eef1513a54442/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:8:5-12:15
@@ -444,23 +444,23 @@ MERGED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/gtr/.gradle/caches/8.10.2/transforms/41a687c5836cdf83d4fec0401e998b48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
 MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/gtr/.gradle/caches/8.10.2/transforms/41a687c5836cdf83d4fec0401e998b48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:37:9-40:18
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:37:9-40:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:38:13-72
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:38:13-72
 	android:name
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:38:21-70
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:38:21-70
 data
-ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:39:13-50
+ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:39:13-50
 	android:mimeType
-		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml:39:19-48
+		ADDED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:39:19-48
 uses-sdk
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/shared_preferences_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:stripe_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [com.stripe:stripe-android:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/c4b62229c6722cc2771bbee7f1d77249/transformed/jetified-stripe-android-20.34.4/AndroidManifest.xml:5:5-44
 MERGED from [com.stripe:stripe-android:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/c4b62229c6722cc2771bbee7f1d77249/transformed/jetified-stripe-android-20.34.4/AndroidManifest.xml:5:5-44
 MERGED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:5:5-44
@@ -483,14 +483,14 @@ MERGED from [com.airbnb.android:mavericks-compose:3.0.7] /Users/gtr/.gradle/cach
 MERGED from [com.airbnb.android:mavericks-compose:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/dfd4c8b7aef88675434b4b000790d3e9/transformed/jetified-mavericks-compose-3.0.7/AndroidManifest.xml:5:5-44
 MERGED from [com.airbnb.android:mavericks:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/9a9a991715d5c18847b983ae6a7889f9/transformed/jetified-mavericks-3.0.7/AndroidManifest.xml:5:5-44
 MERGED from [com.airbnb.android:mavericks:3.0.7] /Users/gtr/.gradle/caches/8.10.2/transforms/9a9a991715d5c18847b983ae6a7889f9/transformed/jetified-mavericks-3.0.7/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:21:5-23:151
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:6:5-44
@@ -501,18 +501,18 @@ MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.grad
 MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/fcc529bc5b51e11b12cbc4aafe5d03cf/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/805f597cf700b6edc578f20d23953299/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/805f597cf700b6edc578f20d23953299/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
-MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
-MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:iris_method_channel] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/permission_handler_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/sqflite_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/188b0b43bb531f29ab4fb507b621324a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/188b0b43bb531f29ab4fb507b621324a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.1.0] /Users/gtr/.gradle/caches/8.10.2/transforms/08538632257a34d5c434be131d4f0e8d/transformed/media-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -836,9 +836,9 @@ MERGED from [com.google.android.play:core-common:2.0.3] /Users/gtr/.gradle/cache
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml
 intent#action:name:android.intent.action.VIEW+data:scheme:http
 ADDED from [com.stripe:financial-connections:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/5dde01cba49d1321d98f9c538bc30fd9/transformed/jetified-financial-connections-20.34.4/AndroidManifest.xml:13:9-17:18
 action#android.intent.action.VIEW
@@ -1102,13 +1102,13 @@ ADDED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/t
 	android:name
 		ADDED from [com.stripe:payments-core:20.34.4] /Users/gtr/.gradle/caches/8.10.2/transforms/51fc991520ed385a708eef1513a54442/transformed/jetified-payments-core-20.34.4/AndroidManifest.xml:81:13-97
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:35:9-39:19
-MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:35:9-39:19
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:35:9-39:19
+MERGED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:35:9-39:19
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:66:9-72:19
 MERGED from [com.google.firebase:firebase-firestore:25.1.3] /Users/gtr/.gradle/caches/8.10.2/transforms/21909f8b64b27e3e999a3a016e44c159/transformed/jetified-firebase-firestore-25.1.3/AndroidManifest.xml:14:9-23:19
@@ -1130,91 +1130,91 @@ MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/gtr/.grad
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/b139c3cca8c327fd02a100cff2fcb51d/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_auth/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/cloud_firestore/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-134
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-68
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-68
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/7e41f7f1584e81a4f313416205e7f8f8/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/7e41f7f1584e81a4f313416205e7f8f8/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:22-65
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:22-65
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-77
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-77
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:23:5-77
 MERGED from [com.google.firebase:firebase-messaging:24.1.1] /Users/gtr/.gradle/caches/8.10.2/transforms/9c57d120d82637eaf16fc8cbd2e16227/transformed/jetified-firebase-messaging-24.1.1/AndroidManifest.xml:23:5-77
-MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-77
-MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-77
+MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-77
+MERGED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-77
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:22-74
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:22-74
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:9-17:72
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:9-17:72
 	android:exported
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-37
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-37
 	android:permission
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:13-69
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:13-69
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-107
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-107
 service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:9-24:19
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:9-24:19
 	android:exported
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:13-37
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:13-97
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:13-97
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:13-23:29
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:13-23:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:17-78
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:17-78
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:25-75
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:25-75
 receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:26:9-33:20
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:26:9-33:20
 	android:exported
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-36
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-36
 	android:permission
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:13-73
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:13-73
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:27:13-98
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:27:13-98
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:13-32:29
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:13-32:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:17-81
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:17-81
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:25-78
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:25-78
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:36:13-38:85
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:38:17-82
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:37:17-128
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:37:17-128
 provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
-ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:41:9-45:38
+ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:41:9-45:38
 	android:authorities
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:43:13-88
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:43:13-88
 	android:exported
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:44:13-37
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:44:13-37
 	android:initOrder
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:45:13-35
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:45:13-35
 	android:name
-		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:42:13-102
+		ADDED from [:firebase_messaging] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_messaging/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:42:13-102
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-124
 activity#com.google.firebase.auth.internal.GenericIdpActivity
 ADDED from [com.google.firebase:firebase-auth:23.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/d014553eecc71bb3d9dc7994c3dcf5fc/transformed/jetified-firebase-auth-23.2.0/AndroidManifest.xml:29:9-46:20
 	android:excludeFromRecents
@@ -1320,17 +1320,17 @@ ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/gtr/.gradle/c
 	android:name
 		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/gtr/.gradle/caches/8.10.2/transforms/805f597cf700b6edc578f20d23953299/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
 uses-permission#android.permission.VIBRATE
-ADDED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-66
+ADDED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:22-63
+		ADDED from [:flutter_local_notifications] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/flutter_local_notifications/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:22-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:5-68
+ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:5-68
 	android:name
-		ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:22-65
+		ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:22-65
 uses-permission#android.permission.BLUETOOTH_CONNECT
-ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:5-76
+ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:5-76
 	android:name
-		ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:22-73
+		ADDED from [:agora_rtc_engine] /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/agora_rtc_engine/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:22-73
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/gtr/.gradle/caches/8.10.2/transforms/a9c9109d84222ef39ccd74e88c2f7c1d/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

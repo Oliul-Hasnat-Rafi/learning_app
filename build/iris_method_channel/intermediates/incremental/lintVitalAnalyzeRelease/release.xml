@@ -3,9 +3,9 @@
     package="com.agora.iris_method_channel"
     minSdkVersion="21"
     targetSdkVersion="21"
-    mergedManifest="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
-    proguardFiles="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
-    partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    mergedManifest="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/default_proguard_files/global/proguard-android.txt-8.7.0"
+    partialResultsDir="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
     desugaredMethodsFiles="/Users/gtr/.gradle/caches/8.10.2/transforms/43efc08548039a3e1602a330a74cfb74/transformed/D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
@@ -21,11 +21,11 @@
   <testFixturesSourceProviders>
   </testFixturesSourceProviders>
   <artifact
-      classOutputs="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      classOutputs="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
       type="MAIN"
       applicationId="com.agora.iris_method_channel"
-      generatedSourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/build/iris_method_channel/generated/res/resValues/release"
+      generatedSourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/iris_method_channel/generated/res/resValues/release"
       desugaredMethodsFiles="/Users/gtr/.gradle/caches/8.10.2/transforms/43efc08548039a3e1602a330a74cfb74/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

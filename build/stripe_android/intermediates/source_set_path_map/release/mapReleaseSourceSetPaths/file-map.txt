@@ -86,8 +86,8 @@ com.flutter.stripe.stripe_android-jetified-emoji2-views-helper-1.2.0-84 /Users/g
 com.flutter.stripe.stripe_android-jetified-payments-model-20.34.4-85 /Users/gtr/.gradle/caches/8.10.2/transforms/ff9cec0314f97ed4daa1de4d1c67cd48/transformed/jetified-payments-model-20.34.4/res
 com.flutter.stripe.stripe_android-main-86 /Users/gtr/.pub-cache/hosted/pub.dev/stripe_android-9.6.0+2/android/src/main/res
 com.flutter.stripe.stripe_android-release-87 /Users/gtr/.pub-cache/hosted/pub.dev/stripe_android-9.6.0+2/android/src/release/res
-com.flutter.stripe.stripe_android-pngs-88 /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/generated/res/pngs/release
-com.flutter.stripe.stripe_android-resValues-89 /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/generated/res/resValues/release
-com.flutter.stripe.stripe_android-mergeReleaseResources-90 /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.flutter.stripe.stripe_android-mergeReleaseResources-91 /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.flutter.stripe.stripe_android-release-92 /Users/gtr/Rafi/personal_project/language_learning_app/build/stripe_android/intermediates/merged_res/release/mergeReleaseResources
+com.flutter.stripe.stripe_android-pngs-88 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/generated/res/pngs/release
+com.flutter.stripe.stripe_android-resValues-89 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/generated/res/resValues/release
+com.flutter.stripe.stripe_android-mergeReleaseResources-90 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.flutter.stripe.stripe_android-mergeReleaseResources-91 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.flutter.stripe.stripe_android-release-92 /Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/stripe_android/intermediates/merged_res/release/mergeReleaseResources
