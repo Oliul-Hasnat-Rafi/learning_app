@@ -79,7 +79,6 @@ class AppBindings extends Bindings {
     ); 
     Get.put(AuthService(), permanent: true);
     Get.put(FirestoreService(), permanent: true);
-    Get.put(NotificationService(), permanent: true);
     Get.put(PaymentService(), permanent: true);
   }
 }

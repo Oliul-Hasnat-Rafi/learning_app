@@ -117,8 +117,8 @@
 59-->/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:12:9-43
 60        android:icon="@mipmap/launcher_icon"
 60-->/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:14:9-45
-61        android:label="language_learning_app"
-61-->/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:11:9-46
+61        android:label="Hello"
+61-->/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:11:9-30
 62        android:theme="@style/AppTheme" >
 62-->/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/android/app/src/main/AndroidManifest.xml:15:9-40
 63        <activity

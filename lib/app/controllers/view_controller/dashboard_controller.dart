@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:language_learning_app/app/controllers/services/firebase_service/notification_service.dart';
 import 'package:language_learning_app/app/controllers/view_controller/languages_controller.dart';
 import 'package:language_learning_app/app/models/booking_model.dart';
 import 'package:language_learning_app/app/controllers/services/firebase_service/auth_service.dart';
-
 
 class DashboardController
     extends
@@ -14,6 +14,11 @@ class DashboardController
   final LanguagesController _languagesController = Get.put(
     LanguagesController(),
   );
+  final NotificationService _notificationService =
+      Get.put(
+        NotificationService(),
+        permanent: true
+      );
   final FirebaseFirestore _firestore =
       FirebaseFirestore.instance;
 
@@ -511,7 +516,6 @@ class DashboardController
         //   uid: 2, // Different UID for students
         // ));
         // Navigate to chat for now (actual video call implementation would go here)
-      
       }
     } catch (
       e
