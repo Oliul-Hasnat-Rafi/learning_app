@@ -63,7 +63,7 @@
         android:extractNativeLibs="false"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/launcher_icon"
-        android:label="language_learning_app"
+        android:label="Hello"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.language_learning_app.MainActivity"

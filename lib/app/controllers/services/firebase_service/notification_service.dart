@@ -40,13 +40,13 @@ class NotificationService
   @override
   void onInit() {
     super.onInit();
-    _initNotifications();
+    initNotifications();
   }
 
   Future<
     void
   >
-  _initNotifications() async {
+  initNotifications() async {
     print(
       'Initializing notifications service...',
     );
@@ -350,7 +350,7 @@ class NotificationService
   ) async {
     try {
       if (!isInitialized.value) {
-        await _initNotifications();
+        await initNotifications();
       }
 
       List<
@@ -587,7 +587,7 @@ class NotificationService
   testNotification() async {
     try {
       if (!isInitialized.value) {
-        await _initNotifications();
+        await initNotifications();
       }
 
       String? userId =

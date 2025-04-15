@@ -1,4 +1,4 @@
-#Sun Apr 13 22:37:03 BDT 2025
+#Sun Apr 13 23:16:17 BDT 2025
 base.2=/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
 path.2=classes2.dex
 base.1=/Users/gtr/Rafi/personal_project/language_learning_app/learning_app/build/app/intermediates/desugar_lib_dex/release/l8DexDesugarLibRelease/classes1000.dex

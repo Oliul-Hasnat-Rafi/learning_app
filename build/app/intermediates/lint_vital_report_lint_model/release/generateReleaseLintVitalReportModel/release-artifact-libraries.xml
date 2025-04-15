@@ -344,9 +344,17 @@
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.0/e000bd084353d84c9e888f6fb341dc1f5b79d948/kotlin-stdlib-jdk8-1.9.0.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0"/>
   <library
+      name="io.flutter:armeabi_v7a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
+      jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/e54d80d773cb2c33ee1640ce30582f3559da852b/armeabi_v7a_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
+  <library
       name="io.flutter:arm64_v8a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/4a0daad0345f38961bb03309f3267aaca0bc30ca/arm64_v8a_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
       resolved="io.flutter:arm64_v8a_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
+  <library
+      name="io.flutter:x86_64_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6@jar"
+      jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6/6b87548dc9ef14760e15f6c6f3c502de0f46cb85/x86_64_release-1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-871f65ac1bf129edb222c3293a636ff4b67534a6"/>
   <library
       name="org.jetbrains:annotations:23.0.0@jar"
       jars="/Users/gtr/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar"

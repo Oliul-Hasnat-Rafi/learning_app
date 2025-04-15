@@ -64,6 +64,7 @@ class DashboardController
     super.onInit();
     loadUserData();
     _languagesController.fetchLanguages();
+    _notificationService.initNotifications();
 
     if (_authService.currentUser.value?.role ==
         'teacher') {
